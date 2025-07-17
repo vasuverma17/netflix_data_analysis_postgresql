@@ -47,6 +47,12 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 3. 📅 Year-Specific Content
 - Listed all **movies released in 2020**.
 
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-15%20194408.png)
+
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-15%20194446.png)
+
+  
+
 ### 4. 🌍 Top 5 Countries by Content Volume
 - Used `UNNEST()` to extract top countries with the most content.
 
