@@ -32,6 +32,10 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 1. 🎬 Content Type Breakdown
 - Counted the number of **Movies vs TV Shows** to analyze platform focus.
 
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-15%20184638.png)
+
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-15%20184648.png)
+
 ### 2. ⭐ Most Common Ratings
 - Found the **most frequent rating** by content type using `RANK()`.
 
