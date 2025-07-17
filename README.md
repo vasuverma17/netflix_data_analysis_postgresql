@@ -39,6 +39,11 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 2. ⭐ Most Common Ratings
 - Found the **most frequent rating** by content type using `RANK()`.
 
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-15%20192412.png)
+
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-15%20192432.png)
+  
+
 ### 3. 📅 Year-Specific Content
 - Listed all **movies released in 2020**.
 
