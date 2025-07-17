@@ -1,4 +1,4 @@
-# netflix_data_analysis_postgresql
+
 # 📊 Netflix Content Analysis using PostgreSQL
 
 ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/inbox_12038776_dbabda1e8f2d39e88b030173303b2724_Netflix.jpg)
