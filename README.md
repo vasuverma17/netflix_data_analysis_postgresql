@@ -56,6 +56,12 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 4. 🌍 Top 5 Countries by Content Volume
 - Used `UNNEST()` to extract top countries with the most content.
 
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-15%20195959.png)
+
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-15%20200046.png)
+
+  
+
 ### 5. 🎥 Longest Movie
 - Identified the **longest movie** based on the `duration` field.
 
