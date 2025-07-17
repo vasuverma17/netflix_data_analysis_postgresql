@@ -65,6 +65,11 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 5. 🎥 Longest Movie
 - Identified the **longest movie** based on the `duration` field.
 
+![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20160151.png)
+
+![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20160208.png)
+  
+
 ### 6. 🆕 Recently Added Content
 - Filtered content added to Netflix in the **last 5 years**.
 
