@@ -87,6 +87,10 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 8. 📺 TV Shows with >5 Seasons
 - Used `SPLIT_PART()` to extract season info and filter multi-season shows.
 
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20171119.png)
+
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20171140.png)
+
 ### 9. 🎭 Genre Distribution
 - Counted the number of titles by **genre** using `UNNEST()` on `listed_in`.
 
