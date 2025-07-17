@@ -122,6 +122,14 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 13. 🎥 Actor-Focused Analysis
 - Movies starring **Salman Khan** in the last 10 years.
 - Top 10 actors in **Indian movies** by appearance count.
+  
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20184153.png)
+
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20184258.png)
+  
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20185522.png)
+
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20185534.png)
 
 ### 14. 🚫 Content Categorization (Good vs Bad)
 - Categorized content as `Bad_Content` or `Good Content` based on keywords like `'kill'` or `'violence'` in the description.
