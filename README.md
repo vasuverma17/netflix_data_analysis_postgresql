@@ -96,10 +96,14 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 
    ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20173242.png)
 
-  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20173849.png)
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20173849.png)
 
 ### 10. 🇮🇳 India-Specific Trends
 - Found **top 5 years** with the highest average content release in **India**.
+
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20175157.png)
+
+     ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20175207.png)
 
 ### 11. 🎞️ Documentaries
 - Filtered all **documentary movies** using `ILIKE`.
