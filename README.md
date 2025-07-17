@@ -80,6 +80,10 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 7. 🎬 Director-Based Search
 - Queried all content directed by **Rajiv Chilaka**.
 
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20170110.png)
+
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20170123.png)
+
 ### 8. 📺 TV Shows with >5 Seasons
 - Used `SPLIT_PART()` to extract season info and filter multi-season shows.
 
