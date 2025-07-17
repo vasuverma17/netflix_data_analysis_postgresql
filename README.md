@@ -115,6 +115,10 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 12. ❌ Missing Metadata
 - Identified content with **missing director information**.
 
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20183529.png)
+
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20183542.png)
+
 ### 13. 🎥 Actor-Focused Analysis
 - Movies starring **Salman Khan** in the last 10 years.
 - Top 10 actors in **Indian movies** by appearance count.
