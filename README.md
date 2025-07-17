@@ -73,6 +73,10 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 6. 🆕 Recently Added Content
 - Filtered content added to Netflix in the **last 5 years**.
 
+![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20161353.png)
+
+![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20161451.png)
+
 ### 7. 🎬 Director-Based Search
 - Queried all content directed by **Rajiv Chilaka**.
 
