@@ -133,15 +133,10 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 
 ### 14. 🚫 Content Categorization (Good vs Bad)
 - Categorized content as `Bad_Content` or `Good Content` based on keywords like `'kill'` or `'violence'` in the description.
+  
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20190341.png)
 
----
-
-## ✅ Recommendations
-
-- Normalize multi-value fields (`country`, `casts`, `listed_in`) for cleaner joins and filters.
-- Add **indexes** on `type`, `release_year`, and `country` for better query performance.
-- Integrate this analysis with **BI tools** like Power BI or Tableau for visual insights.
-- Enhance data quality checks for `NULL` or missing values.
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20190400.png)
 
 ---
 
@@ -156,7 +151,7 @@ This project showcases:
 
 ## 🙏 Thank You
 
-**Created by:** [Your Name]  
-**Connect:** [LinkedIn/GitHub/Email]
+**Created by:** [Vasu Verma]  
+**Connect:** [[LinkedIn](https://www.linkedin.com/in/vasu-verma-9396372a7/)/Email - khannavasu2@gmail.com]
 
 Feel free to contribute or suggest improvements!
