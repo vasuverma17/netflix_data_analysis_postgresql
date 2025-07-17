@@ -94,6 +94,10 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 ### 9. 🎭 Genre Distribution
 - Counted the number of titles by **genre** using `UNNEST()` on `listed_in`.
 
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20173242.png)
+
+  ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20173849.png)
+
 ### 10. 🇮🇳 India-Specific Trends
 - Found **top 5 years** with the highest average content release in **India**.
 
