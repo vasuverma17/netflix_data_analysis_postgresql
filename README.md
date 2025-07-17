@@ -107,6 +107,7 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 
 ### 11. 🎞️ Documentaries
 - Filtered all **documentary movies** using `ILIKE`.
+  
    ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20183147.png)
 
    ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20183209.png)
