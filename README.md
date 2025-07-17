@@ -103,10 +103,13 @@ This project analyzes Netflix content data using PostgreSQL to derive actionable
 
    ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20175157.png)
 
-     ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20175207.png)
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20175207.png)
 
 ### 11. 🎞️ Documentaries
 - Filtered all **documentary movies** using `ILIKE`.
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20183147.png)
+
+   ![Image Alt](https://github.com/vasuverma17/netflix_data_analysis_postgresql/blob/main/Screenshot%202025-07-16%20183209.png)
 
 ### 12. ❌ Missing Metadata
 - Identified content with **missing director information**.
